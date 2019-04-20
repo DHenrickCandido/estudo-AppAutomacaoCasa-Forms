@@ -1,0 +1,10 @@
+C:\Users\diego\Desktop\objeto TP\AppCasa\AppCasa\bin\Debug\AppCasa.exe.config
+C:\Users\diego\Desktop\objeto TP\AppCasa\AppCasa\bin\Debug\AppCasa.exe
+C:\Users\diego\Desktop\objeto TP\AppCasa\AppCasa\bin\Debug\AppCasa.pdb
+C:\Users\diego\Desktop\objeto TP\AppCasa\AppCasa\obj\Debug\AppCasa.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\objeto TP\AppCasa\AppCasa\obj\Debug\AppCasa.Form1.resources
+C:\Users\diego\Desktop\objeto TP\AppCasa\AppCasa\obj\Debug\AppCasa.Properties.Resources.resources
+C:\Users\diego\Desktop\objeto TP\AppCasa\AppCasa\obj\Debug\AppCasa.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\objeto TP\AppCasa\AppCasa\obj\Debug\AppCasa.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\objeto TP\AppCasa\AppCasa\obj\Debug\AppCasa.exe
+C:\Users\diego\Desktop\objeto TP\AppCasa\AppCasa\obj\Debug\AppCasa.pdb
